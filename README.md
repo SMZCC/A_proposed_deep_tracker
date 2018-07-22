@@ -23,6 +23,15 @@
 | **OTB50**  | <img src='./imgs/otb50_overlap_challenges.PNG'>  | <img src='./imgs/otb50_location_challenges.PNG'>  |
 | **OTB100** | <img src='./imgs/otb100_overlap_challenges.PNG'> | <img src='./imgs/otb100_location_challenges.PNG'> |
 
+###### Some comparisons
+
+| <img src='./imgs/Basketball_653.svg'> | <img src='./imgs/DragonBaby_45.svg'>  | <img src='./imgs/MotorRolling_30.svg'>  | <img src='./imgs/skiing_10.svg'> |
+| ------------------------------------- | ------------------------------------- | --------------------------------------- | -------------------------------- |
+| <img src='./imgs/Basketball_660.svg'> | <img src='./imgs/DragonBaby_90.svg'>  | <img src='./imgs/MotorRolling_100.svg'> | <img src='./imgs/skiing_43.svg'> |
+| <img src='./imgs/Basketball_721.svg'> | <img src='./imgs/DragonBaby_113.svg'> | <img src='./imgs/MotorRolling_164.svg'> | <img src='./imgs/skiing_81.svg'> |
+
+
+
 ###### All videos views
 
 - all results in the perspective of  videos

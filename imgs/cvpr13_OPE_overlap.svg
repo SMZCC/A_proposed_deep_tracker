@@ -237,7 +237,7 @@
     ><text x="-78" xml:space="preserve" y="-4" style="stroke:none;"
       >Success plots of OPE</text
     ></g
-    ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:red; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:red; stroke-width:1.3333;"
     ><path d="M73 56.3167 L94.7 59.06 L116.4 60.8129 L138.1 63.3114 L159.8 65.817 L181.5 68.7357 L203.2 72.818 L224.9 79.2907 L246.6 87.2982 L268.3 97.4739 L290 108.9914 L311.7 122.6694 L333.4 138.8965 L355.1 159.1814 L376.8 186.6379 L398.5 228.7019 L420.2 277.7733 L441.9 322.6914 L463.6 355.6465 L485.3 369.8101 L507 374" style="fill:none; fill-rule:evenodd;"
       /><path d="M73 75.6683 L94.7 76.9072 L116.4 77.5764 L138.1 78.2702 L159.8 79.4942 L181.5 81.3384 L203.2 85.5699 L224.9 90.0391 L246.6 95.3226 L268.3 101.3816 L290 109.206 L311.7 119.759 L333.4 135.5537 L355.1 159.5576 L376.8 189.9903 L398.5 229.9681 L420.2 274.8387 L441.9 314.0294 L463.6 346.1785 L485.3 367.8487 L507 374" style="fill:none; fill-rule:evenodd; stroke:lime;"
       /><path d="M73 74.9249 L94.7 77.6749 L116.4 79.0965 L138.1 80.4809 L159.8 81.9346 L181.5 83.9881 L203.2 86.1886 L224.9 88.6801 L246.6 93.0218 L268.3 98.545 L290 105.41 L311.7 117.0831 L333.4 133.1736 L355.1 153.6239 L376.8 184.1971 L398.5 226.2319 L420.2 277.659 L441.9 325.8836 L463.6 359.2283 L485.3 371.4762 L507 374" style="fill:none; fill-rule:evenodd; stroke:blue;"
@@ -249,7 +249,7 @@
       /><path d="M73 72.8445 L94.7 78.8598 L116.4 82.1593 L138.1 84.3759 L159.8 87.9298 L181.5 91.1649 L203.2 97.0129 L224.9 107.273 L246.6 116.8047 L268.3 125.6643 L290 138.5795 L311.7 153.3245 L333.4 169.5299 L355.1 190.599 L376.8 218.2476 L398.5 253.9627 L420.2 293.2184 L441.9 331.9013 L463.6 359.5084 L485.3 371.3631 L507 374" style="fill:none; fill-rule:evenodd; stroke:rgb(255,127,39);"
       /><path d="M73 95.1458 L94.7 98.117 L116.4 102.6684 L138.1 106.2485 L159.8 110.1271 L181.5 113.5636 L203.2 118.5719 L224.9 123.616 L246.6 129.8487 L268.3 136.5289 L290 144.0725 L311.7 152.3232 L333.4 162.5682 L355.1 175.6277 L376.8 196.4538 L398.5 227.9207 L420.2 266.9674 L441.9 313.6287 L463.6 348.012 L485.3 365.8173 L507 374" style="fill:none; fill-rule:evenodd; stroke:rgb(0,162,232);"
       /><path d="M73 88.121 L94.7 92.1017 L116.4 97.5208 L138.1 101.6185 L159.8 105.8556 L181.5 109.5405 L203.2 113.9949 L224.9 120.7811 L246.6 129.3721 L268.3 136.3933 L290 145.1915 L311.7 158.9559 L333.4 173.7671 L355.1 194.1781 L376.8 223.4172 L398.5 257.0668 L420.2 293.8055 L441.9 329.0286 L463.6 354.6008 L485.3 369.1143 L507 374" style="fill:none; fill-rule:evenodd; stroke:rgb(163,73,164);"
-      /><path style="fill:none; stroke-dasharray:20,20; stroke-miterlimit:1; fill-rule:evenodd; stroke-linejoin:bevel;" d="M73 88.2565 L94.7 94.0971 L116.4 102.1334 L138.1 107.6771 L159.8 114.1504 L181.5 118.5062 L203.2 123.6422 L224.9 130.6417 L246.6 139.6303 L268.3 149.0925 L290 160.422 L311.7 176.0133 L333.4 194.1291 L355.1 215.0853 L376.8 239.3089 L398.5 269.5103 L420.2 300.9689 L441.9 332.0046 L463.6 355.2206 L485.3 368.5997 L507 374"
+      /><path style="fill:none; stroke-dasharray:10,6; stroke-miterlimit:1; fill-rule:evenodd; stroke-linejoin:bevel;" d="M73 88.2565 L94.7 94.0971 L116.4 102.1334 L138.1 107.6771 L159.8 114.1504 L181.5 118.5062 L203.2 123.6422 L224.9 130.6417 L246.6 139.6303 L268.3 149.0925 L290 160.422 L311.7 176.0133 L333.4 194.1291 L355.1 215.0853 L376.8 239.3089 L398.5 269.5103 L420.2 300.9689 L441.9 332.0046 L463.6 355.2206 L485.3 368.5997 L507 374"
     /></g
     ><g style="fill:white; text-rendering:optimizeSpeed; color-rendering:optimizeSpeed; image-rendering:optimizeSpeed; shape-rendering:crispEdges; color-interpolation:sRGB; stroke:white;"
     ><path style="stroke:none;" d="M73 374 L73 157 L296 157 L296 374 Z"
@@ -258,84 +258,84 @@
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >Ours [0.624]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:red; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:red; stroke-width:1.3333;"
     ><line y2="168.1839" style="fill:none;" x1="81" x2="121" y1="168.1839"
     /></g
     ><g transform="translate(125,185.8777)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >CFNet_conv3 [0.610]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:lime; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:lime; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:lime; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:lime; stroke-width:1.3333;"
     ><line y2="185.8777" style="fill:none;" x1="81" x2="121" y1="185.8777"
     /></g
     ><g transform="translate(125,203.5715)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >SiamFC_3s [0.608]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:blue; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:blue; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:blue; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:blue; stroke-width:1.3333;"
     ><line y2="203.5715" style="fill:none;" x1="81" x2="121" y1="203.5715"
     /></g
     ><g transform="translate(125,221.2654)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >Staple [0.600]</text
     ></g
-    ><g style="stroke-linecap:butt; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke-width:1.3333;"
     ><line y2="221.2654" style="fill:none;" x1="81" x2="121" y1="221.2654"
     /></g
     ><g transform="translate(125,238.9592)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >fDSST [0.595]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:fuchsia; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:fuchsia; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:fuchsia; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:fuchsia; stroke-width:1.3333;"
     ><line y2="238.9592" style="fill:none;" x1="81" x2="121" y1="238.9592"
     /></g
     ><g transform="translate(125,256.6531)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >ACFN-selNet [0.589]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:aqua; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:aqua; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:aqua; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:aqua; stroke-width:1.3333;"
     ><line y2="256.6531" style="fill:none;" x1="81" x2="121" y1="256.6531"
     /></g
     ><g transform="translate(125,274.3469)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >SAMF [0.579]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:gray; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:gray; stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:gray; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:gray; stroke-width:1.3333;"
     ><line y2="274.3469" style="fill:none;" x1="81" x2="121" y1="274.3469"
     /></g
     ><g transform="translate(125,292.0408)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >MEEM [0.566]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:rgb(136,0,21); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(136,0,21); stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:rgb(136,0,21); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(136,0,21); stroke-width:1.3333;"
     ><line y2="292.0408" style="fill:none;" x1="81" x2="121" y1="292.0408"
     /></g
     ><g transform="translate(125,309.7346)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >ACFN-attNet [0.563]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:rgb(255,127,39); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(255,127,39); stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:rgb(255,127,39); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(255,127,39); stroke-width:1.3333;"
     ><line y2="309.7346" style="fill:none;" x1="81" x2="121" y1="309.7346"
     /></g
     ><g transform="translate(125,327.4285)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >DSST [0.554]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:rgb(0,162,232); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(0,162,232); stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:rgb(0,162,232); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(0,162,232); stroke-width:1.3333;"
     ><line y2="327.4285" style="fill:none;" x1="81" x2="121" y1="327.4285"
     /></g
     ><g transform="translate(125,345.1223)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >KCF_LinearHOG_AT [0.539]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:rgb(163,73,164); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(163,73,164); stroke-width:5.3333;"
+    ><g style="stroke-linecap:butt; fill:rgb(163,73,164); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:round; color-interpolation:linearRGB; stroke:rgb(163,73,164); stroke-width:1.3333;"
     ><line y2="345.1223" style="fill:none;" x1="81" x2="121" y1="345.1223"
     /></g
     ><g transform="translate(125,362.8162)" style="text-rendering:geometricPrecision; font-size:13px; color-interpolation:linearRGB; color-rendering:optimizeQuality; image-rendering:optimizeQuality;"
     ><text x="0" xml:space="preserve" y="5.5" style="stroke:none;"
       >KCF [0.514]</text
     ></g
-    ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:20,20; color-interpolation:linearRGB; stroke:red; stroke-width:5.3333; stroke-miterlimit:1;"
+    ><g style="stroke-linecap:butt; fill:red; text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; stroke-linejoin:bevel; stroke-dasharray:10,6; color-interpolation:linearRGB; stroke:red; stroke-width:1.3333; stroke-miterlimit:1;"
     ><line y2="362.8162" style="fill:none;" x1="81" x2="121" y1="362.8162"
     /></g
     ><g style="stroke-linecap:butt; fill:rgb(38,38,38); text-rendering:geometricPrecision; color-rendering:optimizeQuality; image-rendering:optimizeQuality; color-interpolation:linearRGB; stroke:rgb(38,38,38); stroke-width:0.6667;"
